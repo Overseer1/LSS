@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[27],{4099:function(e,n,u){Promise.resolve().then(u.bind(u,2598))},2598:function(e,n,u){"use strict";u.r(n);var s=u(7437),t=u(2265);n.default=()=>((0,t.useEffect)(()=>{}),(0,s.jsx)("div",{children:"CKC"}))}},function(e){e.O(0,[971,23,744],function(){return e(e.s=4099)}),_N_E=e.O()}]);
