@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = { 
-    basePath: "/LasCartas",
+    basePath: "/LSS",
     output: "export",
     reactStrictMode: true,
 };
